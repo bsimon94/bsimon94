@@ -1,7 +1,7 @@
 - 👋 Hi, I’m bsimon94
-- 👀 I’m interested in scripting languages (javascript and PHP)
-- 🌱 I’m currently learning javascript and PHP language
-- 💞️ I’m looking to collaborate on modules development in Javascript and PHP
+- 👀 I’m interested in scripting languages (Bash, python and R)
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on modules development in python, so I will be very happy to collaborate in python developpement projects with every one oof you.
 - 📫 How to reach me bakoasi@hotmail.fr
 
 <!---
